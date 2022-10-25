@@ -1,0 +1,16 @@
+{
+  "name": "@revel.xyz/prettier-config",
+  "version": "1.1.1",
+  "description": "Prettier Config",
+  "main": "index.json",
+  "license": "MIT",
+  "keywords": [
+    "prettier",
+    "prettier-config"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/marctatham/prettier-config"
+  },
+  "homepage": "https://github.com/marctatham/prettier-config"
+}
